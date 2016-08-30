@@ -1,0 +1,13 @@
+{
+    "name": "php/php7",
+    "description": "Programando em php usando a matematica",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabiel Rodrigues",
+            "email": "fabiel.rodrigues@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
