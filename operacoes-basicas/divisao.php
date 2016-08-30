@@ -7,4 +7,4 @@ function divisao($num1, $num2) {
     return $resposta;
 }
 
-echo divisao(10, 5);
+echo divisao(100, 5);
